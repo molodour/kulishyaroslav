@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yaroslav, an <a href="https://www.linkedin.com/in/yaroslav-kulish-1b4b84346/">IT Beginer</a>☺</h1>
+<h1>Hi, I'm Yaroslav, an <a href="https://www.linkedin.com/in/yaroslav-kulish/">IT Beginer</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
